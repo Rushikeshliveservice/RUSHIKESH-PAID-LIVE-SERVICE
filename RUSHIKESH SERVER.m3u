@@ -1,0 +1,649 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ICC WC",HINDI HOTSTAR
+https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ICC WC",ENG HOTSTAR
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Tv
+https://livectv.phando.com/8062/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Umang
+https://livectv.phando.com/8077/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Atrangii
+http://180.178.146.218:8000/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Epic Tv
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Nazara
+https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Ishaara
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+#EXTINF:0 tvg-id="Colors.in" group-title="Entertainment",Colors HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Colors Rishtey
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Dangal tv
+http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Dangal tv 2
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Sab HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Entertainmet Television
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Entertainment",Sony Pal
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony kal
+https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Sab SD
+https://prodevs.link/SD/app/live.php?id=154&e=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",The q
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqwatcho-ono/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Entertainment",Zee tv HD
+http://str24.l9574.com/606.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",& tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Entertainment",Star plus HD
+http://b1g.me:80/Nicholas/Nicholas/7932
+#EXTINF:0 tvg-id="StarBharat.uk" group-title="Entertainment",Star Bharat HD
+http://b1g.me:80/Nicholas/Nicholas/161926
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Entertainment",Star Utsav
+http://180.178.146.218:8000/play/a00g
+#EXTINF:0 tvg-id="karusel" group-title="Entertainment",DD National
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",DD Bharti
+https://ythls.onrender.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max UK
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cineplex UK
+http://170.254.18.107/CINEPLEX/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema UK
+http://170.254.18.107/ZEECINEMA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest/scale-to-width-down/300?cb=20181116224354" group-title="Movies", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/0db00dca-08d8-4718-922f-433a33b98c4f/1.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="http://www.mahamovie.in/images/logomaha-movie.png" group-title="Movies", Maha Movies
+https://livectv1.phando.com/8025/chunklist0.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies",Bolly Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", B4U Kadak
+https://livectv.phando.com/8060/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Movie Plus
+https://livectv.phando.com/8036/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Mh1 dilse
+https://livectv.phando.com/8006/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Anjan tv
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Wow Cinema
+https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Bflix Movies
+https://livectv.phando.com/8079/chunklist0.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines
+https://livectv.phando.com/8073/chunklist0.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Movies
+https://livectv.phando.com/8072/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Bollywood
+https://livectv.phando.com/8029/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Dhinchak
+https://livectv.phando.com/8070/chunklist0.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", ABZY Movies
+https://livectv1.phando.com/8026/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",& Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Movies",Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Movies",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Movies",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Movies",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  utsav movies
+http://b1g.me:80/Nicholas/Nicholas/8528
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Trills
+http://b1g.me:80/Nicholas/Nicholas/161947
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Romance
+http://b1g.me:80/Nicholas/Nicholas/161948
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Gold HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1070
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star Gold HD 2
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/43919
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Movies",Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Movies",Sony Max
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Bollywood
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Superhits
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Disney + Hotstar 
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192985
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",The Movie Club
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-themovieclub-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",South Station
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-southstation-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Samsung max",Zee News
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeenews-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Korean TV
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-koreantv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Times Now Navbharat
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Samsung max",Aaj Tak
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-aajtak-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="NDTV.uk" group-title="Samsung max",NDTV India
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="RepublicBharat.uk" group-title="Samsung max",Republic Bharat
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="Samsung max",ABP News
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpnews-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Good News Today
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-goodnewstime-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ABP Ganga
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpganga-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="mir" group-title="Samsung max",Zee Business
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeebusiness-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",India Today
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",WION
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeewion-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Republic TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="NDTV.uk" group-title="Samsung max",NDTV 24X7
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="Samsung max",NDTV Profit
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvprofit-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="bloomberg" group-title="Samsung max",Bloomberg TV
+https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8?ads.wurl_channel=869&ads.wurl_name=Bloomberg&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Bloomberg Originals
+https://d1574ba626c4472ab08a6db5830cb817.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_QuickTake/playlist.m3u8?ads.wurl_channel=632&ads.wurl_name=QuickTake&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ABP Majha
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpmajha-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="Zee24Taas.in" group-title="Samsung max",Zee 24 Taas
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zee24taas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ABP Sanjha
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpsanjha-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ABP Asmita
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpasmita-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ABP Ananda
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpananda-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="Zee24Ghanta.in" group-title="Samsung max",Zee 24 Ghanta
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zee24ghanta-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Zee 24 Kalak
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeekalak-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Samsung max",Mastiii
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",9X Music
+https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Samsung max",9X Jalwa
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Samsung max",9X Tashan
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Maiboli
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Samsung max",9X Jhakaas
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Balle Balle
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-balleballe-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Qwest TV Jazz & Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="id-extra" group-title="Samsung max",Investigation Discovery
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",ID-HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Real Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",True Crime Now
+https://6f7924a582c245d3a72503be9bb708c8.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_TrueCrimeNow/playlist.m3u8?ads.wurl_channel=1218&ads.wurl_name=TrueCrimeNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",The Q
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00807-theqyou-theq-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Q Marathi
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",FailArmy
+https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",The Pet Collective
+https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Nosey
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintl-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Real Stories
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realstories-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="discov_rus" group-title="Samsung max",Discovery
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Samsung max",Discovery HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="animal_rus" group-title="Samsung max",Animal Planet
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="animal-hd" group-title="Samsung max",Animal Planet HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",WildEarth
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearthin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realwild-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Jack Hanna
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-jackhanna-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="discov_sci" group-title="Samsung max",Discovery Science
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",WeatherSpy
+https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_WeatherSpy/playlist.m3u8?ads.wurl_channel=388&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",INWONDER
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",INWILD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="DiscoveryTamil.in" group-title="Samsung max",Discovery Tamil
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverytamil-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="esp" group-title="Samsung max",Eurosport
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="esp-hd" group-title="Samsung max",Eurosport HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Boxing TV
+https://7bbb4cffe601492e92def9daa24eaee3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BoxingTV/playlist.m3u8?ads.wurl_channel=1287&ads.wurl_name=BoxingTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Prime Fight HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02132-sofast-kokfightstv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",FIGHT TV
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-fighttv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Samsung max",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-tennischannel-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",MAVTV Motorsports Network
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel=611&ads.wurl_name=MAVTVMotorSportsNetwork&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",INTROUBLE
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="MotorVision.de" group-title="Samsung max",Motorvision.TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Billiard TV
+https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8?ads.wurl_channel=1288&ads.wurl_name=BilliardTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Samsung max",Discovery Kids
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Cartoony TV
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",The Q Kahaniyan
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqkahaniyan-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Toon Goggles
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-toon-goggles-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",BEANI TV
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-beanikids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Samsung max",BABY FIRST
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-babyfirst-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Hollywood Desi
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="Pitaara.uk" group-title="Samsung max",Pitaara
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Dabangg
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Magellan TV Now
+https://851d15846f544889884d63f1a220535e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_MagellanTV/playlist.m3u8?ads.wurl_channel=1044&ads.wurl_name=MagellanTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Film Stream
+https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8?ads.wurl_channel=422&ads.wurl_name=Filmstream&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Sofy.TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-softtv-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Hollywire
+https://22b41c7f9b3942198977234db2092cd5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_Hollywire/playlist.m3u8?ads.wurl_channel=922&ads.wurl_name=Hollywire&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="tlc-russia" group-title="Samsung max",TLC
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlcin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Samsung max",TLC HD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Cook Vook
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cookvook-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="fashion" group-title="Samsung max",Fashion TV
+https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="Gusto.ca" group-title="Samsung max",Gusto TV
+https://a7b051df6d2841b39e1c194904d25699.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GustoTV-1/playlist.m3u8?ads.wurl_channel=858&ads.wurl_name=GustoTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Samsung max",Discovery Turbo
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",NDTV GoodTimes
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Heritage
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02132-sofast-heritage-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",HD TRAVEL
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02132-sofast-hdtravel-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",INFAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",People are Awesome
+https://caeee1dd0eea4dde9429074e7f8e96bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Real Life
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realfamilies-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",History Hit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Wonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",GoUSA TV
+https://3b265effb709412a8b5988c98756fda0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Don't Tell The Bride
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellthebrid-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Samsung max",Divya
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-divyatv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:0 tvg-id="set" group-title="Tivimaxx sony liv ",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Tivimaxx sony liv ",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Tivimaxx sony liv ",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Tivimaxx sony liv ",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Tivimaxx sony liv ",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="Tivimaxx sony liv ",Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Tivimaxx sony liv ",Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Tivimaxx sony liv ",Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:0 tvg-id="TenHD.in" group-title="Tivimaxx sony liv ",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Tivimaxx sony liv ",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Tivimaxx sony liv ",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivimaxx sony liv ",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="Colors.in" group-title="Voot",Colors HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Bangla HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Kannada HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Marathi HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Gujarati
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Tamil HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Oriya
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="Voot",Colors Infinity HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB"
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Cineplex Superhit
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Cineplex Bollywood
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ColorsSuper.in" group-title="Voot",Colors Super
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Kannada Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",Colors Gujarati Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",MTV HD Plus
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Voot",MTV Beats HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Voot",Nick HD+
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Motu Patlu 
+http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Chhota Bheem
+http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",super hungama
+https://a6we.short.gy/superhungamativimaxx.m3u8
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids & Information",Hungama
+https://a6we.short.gy/tivimaxxlinkshungama.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Kids & Information",Disney HD
+https://a6we.short.gy/tivimaxxdisneyhd.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Disney
+https://a6we.short.gy/disneytivimaxx.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Cartoon Network
+https://a6we.short.gy/cntivimaxx
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Tv
+https://livectv.phando.com/8044/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Grand
+https://livectv.phando.com/8043/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Hooray Rhymes
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids
+http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids(YUPP TV)
+http://b1g.me:80/Nicholas/Nicholas/11831
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Chumbak tv
+https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
+#EXTINF:0 tvg-id="POGO.in" group-title="Kids & Information",Pogo
+https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Kids & Information",Nick
+https://a6we.short.gy/tivimaxxnick.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids & Information",Disney jr
+https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet English
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery English HD
+https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Hindi HD
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids & Information",Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science English
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science Hindi
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information",Discovery Turbo
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:0 tvg-id="DMAX.it" group-title="Kids & Information",DMAX HD
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="Kids & Information",Eurosport HD
+https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Food Network English
+https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",HGTV English HD
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID English HD
+https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID Hindi HD
+https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TRVL English HD
+https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC English HD
+https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC Hindi HD
+https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Unique tv
+https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
+http://xtv.ooo:8080/live/214535413/121315126/167573.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
+https://a6we.short.gy/starsportshindi.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/3630
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports 2.in.png" group-title="Sports  ",Star Sports  2 HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/3631
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports  ",Star Sports  3 HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/62584
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports Select1.in.png" group-title="Sports  ",Star Sports  Select 1 HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/82628
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports Select2.in.png" group-title="Sports  ",Star Sports  Select 2 HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/16619
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports  ",Sony sports 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports  ",Sony Sports  2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="Sports  ",Sony sports 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports  ",Sony sports 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports  ",Sony sports 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports  ",Astro cricket 
+http://aflaxtv.xyz:8080/F18530/a8c709b9/157565
+#EXTINF:-1 tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="Sports  ",willow cricket Extra
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/296763
+#EXTINF:0 tvg-id="ext" group-title="Sports ",Sports  18  HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports 18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports ",Sports  18  Khel
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports 18_Khel_voot_MOB/Fallback/Sports 18_Khel_voot_MOB-audio_98836_eng=98800-video=1884800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports ",T Sports  HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:0 tvg-id="ViaplayXtra.nl" group-title="Sports ",Viaplay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Sports ",DD sports HD
+https://livectv.phando.com/8020/chunklist0.m3u8
+#EXTINF:0 tvg-id="" group-title="Sports ",DD sports1.0
+http://bluestartv.biz:80/play/link/db22b65f-9a3b-4a52-bb72-28df74df5303/eyJpdiI6IndyQWRXRW54Vm5HMDdFMEZJcXozWkE9PSIsInZhbHVlIjoibXlqZ0hieExHNlluczFqbStVT2ZIZERHYUNRZkRTcEZPbVFjM1BBZzdLaXJJRkxsZ05lRnJtRWdHRm5qamkzcSIsIm1hYyI6IjY5NTMzYWE0YTc1ODA4YjM2YWYzMjIzMWE2ZDI0ZjE1ZDdhMjUzYzk0NGE4YzlhNmJhOGY4M2Q0Y2VhNjU3OTQiLCJ0YWciOiIifQ==.m3u8
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC Chakde
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/193155
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC DHOL
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/264722
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC News
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/295294
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC Punjabi
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/82616
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC Punjabi Gold
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/197742
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",PTC Simran
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/264723
+#EXTINF:0 tvg-id="" group-title="Punjabi Swag ",Zee Punjabi
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/145630
+#EXTINF:0 tvg-id="ext" group-title="News ",Republic Bharat News
+https://ottrb7.republicworld.com/httppush/ottrb_republic_hindi/chunklist_1.m3u8
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="News ",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee News UP/UK
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",News 18 UP/UK
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_131634_eng=131600-video=3110800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",GNT News
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Abp News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF:0 tvg-id="zee" group-title="News ",India News
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",News 18 Hindi
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",News 18 Tamil
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/News18_Tamil_Nadu_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
+#EXTINF:0 tvg-id="DDNews.in" group-title="News ",DD News
+https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Bharat 24 News
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Bharat Express
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar_240p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Khabre Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Hariyana
+https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/News18_Punjab_Haryana_HP_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",News 18 English
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee Hindustan
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Tv9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="news24" group-title="News ",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="mir" group-title="News ",Zee Buisness
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",CNBC Awaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_97234_und=97200-video=4150000.m3u8
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="News ",NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee PANJAB News
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee MADHYA PRADESH News
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee 24 TASS
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",APB Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",TV 9 MARATHI
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee SALAM
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",TV 9 TELUGU
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjhcs/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee News RAJASTHAN
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee News HARIYANA
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",TV 9 BANGLA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",ABP ANANDA
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_1280.m3u8
+#EXTINF:0 tvg-id="JanTV.am" group-title="News ",JAN TV
+http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",ONE NOW
+https://proxy-15.sg1.dailymotion.com/sec(ZmvFbGxMUUCbjec8a9qzW5Ap08XqnKsAqNcHaX3am9UiCkTagQR_xUWJFzsYWAde_qQgDLCccUfPTqWx5PYMZwbL2hf-5wnDE_9K-GB6GXw)/video/829/403/515304928_mp4_h264_aac_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",ET NOW
+https://damso2e2yhynu.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="News ",Times Now
+https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Mirror Now
+https://d179muqh6u5263.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",TimesNow Navbharat
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",HINDI KHABAR
+https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",CNBC ENGLISH
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",IBC News
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",REPUBLIC ENGLISH
+https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee News Gujrati
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee Bihar Jharkhand
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+
+
+

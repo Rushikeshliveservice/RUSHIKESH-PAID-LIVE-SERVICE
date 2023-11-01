@@ -1,0 +1,562 @@
+#EXTM3U
+
+#TATA PLAY SERVER
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Tata Sky",Star Sports 1 Hindi HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=24
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
+#EXTINF:-1 tvg-id=ts245 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Tata Sky",STAR GOLD HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=245
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
+#EXTINF:-1 tvg-id=ts8 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tata Sky",STAR Plus HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=244&key
+#EXTINF:-1 tvg-id=ts244 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Tata Sky",Star Bharat HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=244
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=469&key
+#EXTINF:-1 tvg-id=ts469 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Tata Sky",Star Pravah HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=469
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
+#EXTINF:-1 tvg-id=ts463 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Tata Sky",Star Sports Select 2 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=463
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
+#EXTINF:-1 tvg-id=ts246 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Tata Sky",Star Sports Select 1 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=246
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
+#EXTINF:-1 tvg-id=ts235 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Tata Sky",Star Sports 2 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=235
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
+#EXTINF:-1 tvg-id=ts78 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Sky",Star Sports 1 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=78
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=80&key
+#EXTINF:-1 tvg-id=ts80 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Tata Sky",SONY MAX HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=80
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=503&key
+#EXTINF:-1 tvg-id=ts503 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Tata Sky",Zee Cinema HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=503
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=267&key
+#EXTINF:-1 tvg-id=ts267 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Tata Sky",&pictures HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=267
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=61&key
+#EXTINF:-1 tvg-id=ts61 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Tata Sky",Colors Cineplex HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=61
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=63&key
+#EXTINF:-1 tvg-id=ts63 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Tata Sky",Zee TV HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=63
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=40&key
+#EXTINF:-1 tvg-id=ts40 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Tata Sky",&tv HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=40
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=515&key
+#EXTINF:-1 tvg-id=ts515 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="Tata Sky",Zee Talkies HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=515
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=153&key
+#EXTINF:-1 tvg-id=ts153 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png" group-title="Tata Sky",Aaj Tak
+http://rftv.wtf/tp/rjiptv.mpd?contentID=153
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=689&key
+#EXTINF:-1 tvg-id=ts689 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="Tata Sky",Aaj Tak HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=689
+
+
+#ZEE SERVER
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png"group-title="ZEE INDIA", ZEE CINEMA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png"group-title="ZEE INDIA", AND PICTURES HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Movies",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Movies",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Movies",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Entertainment",Zee tv HD
+http://str24.l9574.com/606.stream/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",& tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News ",Zee 24 TASS
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News ",APB Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News ",TV 9 MARATHI
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+
+
+#SONY SERVER
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX HD
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg" group-title="Sony Liv",SONY HD
+https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg" group-title="Sony Liv",SONY SAB HD
+https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/31aug_sonypal_landscape.jpg" group-title="Sony Liv",SONY PAL
+https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX HD
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_SD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX
+https://dai.google.com/ssai/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5613700600001.jpg" group-title="Sony Liv",SONY WAH
+https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sonymax2_Landscape_Thumb.jpg" group-title="Sony Liv",SONY MAX2
+https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5784992380001.jpg" group-title="Sony Liv",SONY AATH
+https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sony_yay_livechannel_landsscape.jpg" group-title="Sony Liv",SONY YAY
+https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMarathi2_Landscape_Thumb_3.jpg" group-title="Sony Liv",SONY MARATHI
+https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5813558986001.jpg" group-title="Sony Liv",SONY PIX HD
+https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF: -1 tvg-id="12" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5571681160001.jpg" group-title="Sony Liv",SONY BBC EARTH
+https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN1_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 1
+https://dai.google.com/ssai/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN2New_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 2
+https://dai.google.com/ssai/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN3_Landscape_Thumb_1.jpg" group-title="Sony Liv",SONY TEN 3
+https://dai.google.com/ssai/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF: -1 tvg-id="16" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN4_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 4
+https://dai.google.com/ssai/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN1HD_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 1 HD
+https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN2HDNew_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 2 HD
+https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN3HD_Landscape_Thumb_1.jpg" group-title="Sony Liv",SONY TEN 3 HD
+https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF: -1 tvg-id="21" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN4HD_Landscape_Thumb1.jpg" group-title="Sony Liv",SONY TEN 4 HD
+https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+
+#VOOT SERVER 
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_HD.png" group-title="Voot", Colors Cineplex HD 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Voot", Colors HD  
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Voot", Colors Gujarati 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
+
+  #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Voot", Colors Marathi HD  
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+
+  #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Voot", Colors Super
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+
+  #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Voot", Colors Cineplex
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+
+#DISCOVERY SERVER
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet English
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery English HD
+https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Hindi HD
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids & Information",Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science English
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science Hindi
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information",Discovery Turbo
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+
+
+
+#VOOT SERVER 2
+
+
+#EXTINF:0 tvg-id="Colors.in" group-title="VOOT",Colors HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Bangla HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Kannada HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Marathi HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Gujarati
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Tamil HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Oriya
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="VOOT",Colors Infinity HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Cineplex Superhit
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Cineplex Bollywood
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ColorsSuper.in" group-title="VOOT",Colors Super
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Kannada Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Gujarati Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",MTV HD Plus
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VOOT",MTV Beats HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="nickelod" group-title="VOOT",Nick HD+
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="ZEE INDIA",ZEE TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="ZEE INDIA",ZEE CINEMA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#SONY SERVER 2
+
+
+#EXTINF:0 tvg-id="set" group-title="Sony Liv",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY MARATHI
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Sony Liv",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Sony Liv",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Sony Liv",SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Sony Liv",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sony Liv",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv",SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY TEN 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+#EXTINF:0 tvg-id="SonySix.in" group-title="Sony Liv",SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sony Liv",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="Sony Liv",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#KIDS SECTION
+
+
+#EXTINF:0 tvg-id="nickelod" group-title="Voot",Nick HD+
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Motu Patlu 
+http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Chhota Bheem
+http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",super hungama
+https://a6we.short.gy/superhungamativimaxx.m3u8
+
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids & Information",Hungama
+https://a6we.short.gy/tivimaxxlinkshungama.m3u8
+
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Kids & Information",Disney HD
+https://a6we.short.gy/tivimaxxdisneyhd.m3u8
+
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Disney
+https://a6we.short.gy/disneytivimaxx.m3u8
+
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Cartoon Network
+https://a6we.short.gy/cntivimaxx
+
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Tv
+https://livectv.phando.com/8044/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Grand
+https://livectv.phando.com/8043/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Hooray Rhymes
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids
+http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids(YUPP TV)
+http://b1g.me:80/Nicholas/Nicholas/11831
+
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Chumbak tv
+https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
+
+#EXTINF:0 tvg-id="POGO.in" group-title="Kids & Information",Pogo
+https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
+
+#EXTINF:0 tvg-id="nickelod" group-title="Kids & Information",Nick
+https://a6we.short.gy/tivimaxxnick.ts
+
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids & Information",Disney jr
+https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+
+#EXTRA SECTION
+
+#EXTINF:0 tvg-id="ext" group-title="ICC WC",HINDI HOTSTAR
+https://sportsleading.online/live/stream_e2.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ICC WC",ENG HOTSTAR
+https://sportsleading.online/live/stream_e1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Tv
+https://livectv.phando.com/8062/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Umang
+https://livectv.phando.com/8077/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Sab SD
+https://prodevs.link/SD/app/live.php?id=154&e=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest/scale-to-width-down/300?cb=20181116224354" group-title="Movies", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/0db00dca-08d8-4718-922f-433a33b98c4f/1.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="http://www.mahamovie.in/images/logomaha-movie.png" group-title="Movies", Maha Movies
+https://livectv1.phando.com/8025/chunklist0.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies",Bolly Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", B4U Kadak
+https://livectv.phando.com/8060/playlist.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Movie Plus
+https://livectv.phando.com/8036/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Mh1 dilse
+https://livectv.phando.com/8006/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Anjan tv
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Wow Cinema
+https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Bflix Movies
+https://livectv.phando.com/8079/chunklist0.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines
+https://livectv.phando.com/8073/chunklist0.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Movies
+https://livectv.phando.com/8072/playlist.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Bollywood
+https://livectv.phando.com/8029/playlist.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Dhinchak
+https://livectv.phando.com/8070/chunklist0.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", ABZY Movies
+https://livectv1.phando.com/8026/chunklist0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  utsav movies
+http://b1g.me:80/Nicholas/Nicholas/8528
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Trills
+http://b1g.me:80/Nicholas/Nicholas/161947
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Romance
+http://b1g.me:80/Nicholas/Nicholas/161948
+
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Gold HD
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1070
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star Gold HD 2
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/43919
+
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Movies",Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Movies",Sony Max
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Bollywood
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Superhits
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Disney + Hotstar 
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192985
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
+http://xtv.ooo:8080/live/214535413/121315126/167573.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
+https://a6we.short.gy/starsportshindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports  ",Astro cricket 
+http://aflaxtv.xyz:8080/F18530/a8c709b9/157565
+
+#EXTINF:-1 tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="Sports  ",willow cricket Extra
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/296763
+
+
+
+
+
+
