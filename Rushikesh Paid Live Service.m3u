@@ -92,6 +92,21 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=153
 #EXTINF:-1 tvg-id=ts689 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="Tata Sky",Aaj Tak HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=689
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&key
+#EXTINF:-1 tvg-id=ts114 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Tata Sky",Disney
+http://rftv.wtf/tp/rjiptv.mpd?contentID=114
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=172&key
+#EXTINF:-1 tvg-id=ts172 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Tata Sky",History TV18
+http://rftv.wtf/tp/rjiptv.mpd?contentID=172
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=616&key
+#EXTINF:-1 tvg-id=ts616 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tata Sky",History TV18 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=616
+
 
 #ZEE SERVER
 
