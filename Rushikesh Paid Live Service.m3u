@@ -143,7 +143,7 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News ",APB Majha
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9__Maharashtra.png" group-title="News ",TV 9 MARATHI
+#EXTINF:0 tvg-id="ext" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News ",TV 9 MARATHI
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 
 #EXTINF:0 tvg-id="zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Zee Channels",Zee TV
