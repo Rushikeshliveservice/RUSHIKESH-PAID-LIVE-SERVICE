@@ -452,3 +452,29 @@ http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="KIDS",HUNGAMA TV
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246766
+
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (2)
+http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/123706
+
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (1)
+http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/255296
+
+#EXTINF:-1 tvg-id="" tvg-name="CID 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CID 24x7
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/340808
+
+#EXTINF:-1 tvg-id="" tvg-name="The Kapil Sharma Show 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",The Kapil Sharma Show 24x7
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/342075
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 01
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/307079
+
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="INDIAN | KIDS Cartoon",Oggy and the Cockroaches Hindi
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/308282
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chhota Bheem
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/315401
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INDIAN | KIDS Cartoon",24/7 Tom & Jerry
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/329247
+
+
