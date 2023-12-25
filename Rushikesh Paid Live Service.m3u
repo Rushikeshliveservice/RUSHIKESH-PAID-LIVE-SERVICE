@@ -424,76 +424,24 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 
 #KIDS SECTION
 
-
-#EXTINF:0 tvg-id="nickelod" group-title="Voot",Nick HD+
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus/Fallback/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Live Kids",Motu Patlu 
 http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Live Kids",Chhota Bheem
 http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8
- 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",super hungama
-https://a6we.short.gy/superhungamativimaxx.m3u8
-
-#EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids & Information",Hungama
-https://a6we.short.gy/tivimaxxlinkshungama.m3u8
-
-#EXTINF:0 tvg-id="disneychannel.de" group-title="Kids & Information",Disney HD
-https://a6we.short.gy/tivimaxxdisneyhd.m3u8
-
-#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Disney
-https://a6we.short.gy/disneytivimaxx.m3u8
-
-#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Cartoon Network
-https://a6we.short.gy/cntivimaxx
-
-#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Tv
-https://livectv.phando.com/8044/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Grand
-https://livectv.phando.com/8043/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Hooray Rhymes
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids
-http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids(YUPP TV)
-http://b1g.me:80/Nicholas/Nicholas/11831
-
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Chumbak tv
-https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
-
-#EXTINF:0 tvg-id="POGO.in" group-title="Kids & Information",Pogo
-https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
-
-#EXTINF:0 tvg-id="nickelod" group-title="Kids & Information",Nick
-https://a6we.short.gy/tivimaxxnick.ts
-
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids & Information",Disney jr
-https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
 
 #EXTRA SECTION
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES FHD
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246653
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="http://14.192.144.8:80/images/feec1ed700906cfa9f9b4776c80614ef.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246656
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD ROMANCE
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246668
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="http://tv.netstream.pk:80/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="INDIAN 4K",STAR GOLD 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD 2 HD
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246674
 
 #EXTINF:-1 tvg-id="" tvg-name="POGO HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="KIDS",POGO HD
@@ -504,125 +452,3 @@ http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="KIDS",HUNGAMA TV
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246766
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="ICC WC",HINDI HOTSTAR
-https://sportsleading.online/live/stream_e2.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="ICC WC",ENG HOTSTAR
-https://sportsleading.online/live/stream_e1.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Tv
-https://livectv.phando.com/8062/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Shemaroo Umang
-https://livectv.phando.com/8077/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Sab SD
-https://prodevs.link/SD/app/live.php?id=154&e=.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest/scale-to-width-down/300?cb=20181116224354" group-title="Movies", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/0db00dca-08d8-4718-922f-433a33b98c4f/1.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="http://www.mahamovie.in/images/logomaha-movie.png" group-title="Movies", Maha Movies
-https://livectv1.phando.com/8025/chunklist0.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies",Bolly Prime
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", B4U Kadak
-https://livectv.phando.com/8060/playlist.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Movie Plus
-https://livectv.phando.com/8036/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Mh1 dilse
-https://livectv.phando.com/8006/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Anjan tv
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Shemaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Wow Cinema
-https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Bflix Movies
-https://livectv.phando.com/8079/chunklist0.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines
-https://livectv.phando.com/8073/chunklist0.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Movies
-https://livectv.phando.com/8072/playlist.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Goldmines Bollywood
-https://livectv.phando.com/8029/playlist.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", Dhinchak
-https://livectv.phando.com/8070/chunklist0.m3u8
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name=" tvg-logo=" group-title="Movies", ABZY Movies
-https://livectv1.phando.com/8026/chunklist0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star  utsav movies
-http://b1g.me:80/Nicholas/Nicholas/8528
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Trills
-http://b1g.me:80/Nicholas/Nicholas/161947
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star  Gold Romance
-http://b1g.me:80/Nicholas/Nicholas/161948
-
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Movies",Star Gold HD
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1070
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star Gold HD 2
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/43919
-
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="Movies",Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF:0 tvg-id="SonyMax.uk" group-title="Movies",Sony Max
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Wah
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex Superhits
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",Disney + Hotstar 
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192985
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
-http://xtv.ooo:8080/live/214535413/121315126/167573.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
-https://a6we.short.gy/starsportshindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports  ",Astro cricket 
-http://aflaxtv.xyz:8080/F18530/a8c709b9/157565
-
-#EXTINF:-1 tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="Sports  ",willow cricket Extra
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/296763
-
-
-
-
-
-
