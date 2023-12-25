@@ -272,34 +272,34 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Voot", Colors Cineplex
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
+#EXTINF:0 tvg-id="nick-jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids & Information",Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
 
 #DISCOVERY SERVER
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet English
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Kids & Information",Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Kids & Information",Animal Planet Hindi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery English HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery.png" group-title="Kids & Information",Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Hindi HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Kids & Information",Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids & Information",Discovery Kids
+#EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids & Information",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science English
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Kids & Information",Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science Hindi
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Kids & Information",Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information",Discovery Turbo
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Kids & Information",Discovery Turbo
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
 
@@ -310,7 +310,7 @@ https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 #EXTINF:0 tvg-id="Colors.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT",Colors HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="VOOT",Colors Bangla HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="VOOT",Colors Bangla HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png"  group-title="VOOT",Colors Kannada HD
@@ -343,88 +343,83 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback
 #EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="VOOT",Colors Kannada Cinema
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="VOOT",MTV HD Plus
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="VOOT",MTV Beats HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="nickelod" group-title="VOOT",Nick HD+
+#EXTINF:0 tvg-id="nickelod" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="VOOT",Nick HD+
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus/Fallback/index.m3u8
 
-#EXTINF:0 tvg-id="ZeeTV.uk" group-title="ZEE INDIA",ZEE TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="ZEE INDIA",ZEE CINEMA HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
 #SONY SERVER 2
 
 
-#EXTINF:0 tvg-id="set" group-title="Sony Liv",SONY HD
+#EXTINF:0 tvg-id="set" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg" group-title="Sony Liv",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY SAB HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg" group-title="Sony Liv",SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY MARATHI
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMarathi2_Landscape_Thumb_3.jpg" group-title="Sony Liv",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
-#EXTINF:0 tvg-id="SonyPal.in" group-title="Sony Liv",SONY PAL
+#EXTINF:0 tvg-id="SonyPal.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/31aug_sonypal_landscape.jpg" group-title="Sony Liv",SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY AATH
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5784992380001.jpg" group-title="Sony Liv",SONY AATH
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY YAY
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sony_yay_livechannel_landsscape.jpg" group-title="Sony Liv",SONY YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="Sony Liv",SONY MAX HD
+#EXTINF:0 tvg-id="SonyMAX.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:0 tvg-id="SonyMax.uk" group-title="Sony Liv",SONY MAX
+#EXTINF:0 tvg-id="SonyMax.uk" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_SD_landscape_thumb.jpg"  group-title="Sony Liv",SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY WAH
+#EXTINF:0 tvg-id="ext" tvg-id="6" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5613700600001.jpg" group-title="Sony Liv",SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY MAX2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sonymax2_Landscape_Thumb.jpg" group-title="Sony Liv",SONY MAX2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="Sony Liv",SONY PIX HD
+#EXTINF:0 tvg-id="SonyPIX.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5813558986001.jpg" group-title="Sony Liv",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY BBC EARTH
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5571681160001.jpg" group-title="Sony Liv",SONY BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-#EXTINF:0 tvg-id="TenSports.in" group-title="Sony Liv",SONY TEN 1
+#EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN1_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 1
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 
-#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv",SONY TEN 2
+#EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN2New_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 2
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
-#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv",SONY TEN 3
+#EXTINF:0 tvg-id="TenCricket.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN3_Landscape_Thumb_1.jpg" group-title="Sony Liv",SONY TEN 3
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY TEN 4
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN4_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 4
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
-#EXTINF:0 tvg-id="SonySix.in" group-title="Sony Liv",SONY SIX
+#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Liv",SONY SIX
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
-#EXTINF:0 tvg-id="TenHD.in" group-title="Sony Liv",SONY TEN 1 HD
+#EXTINF:0 tvg-id="TenHD.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN1HD_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 1 HD
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
-#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv",SONY TEN 2 HD
+#EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN2HDNew_Landscape_Thumb.jpg" group-title="Sony Liv",SONY TEN 2 HD
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
-#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv",SONY TEN 3 HD
+#EXTINF:0 tvg-id="TenCricket.in" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN3HD_Landscape_Thumb_1.jpg" group-title="Sony Liv",SONY TEN 3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sony Liv",SONY TEN 4 HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN4HD_Landscape_Thumb1.jpg" group-title="Sony Liv",SONY TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
-#EXTINF:0 tvg-id="SonySixHD.in" group-title="Sony Liv",SONY SIX HD
+#EXTINF:0 tvg-id="SonySixHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Liv",SONY SIX HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #KIDS SECTION
