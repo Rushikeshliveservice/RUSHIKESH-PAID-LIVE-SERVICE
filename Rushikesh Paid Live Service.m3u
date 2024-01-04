@@ -3,9 +3,9 @@
 #TATA PLAY SERVER
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#KODIPROP:inputstream.adaptive.license_key=6a9e4204f3f8577ebf6e79b3b18573f8:537f3bebea2eb2ed32af574990124817
 #EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Tata Sky",Star Sports 1 Hindi HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=24
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e4332f746b453148b0bd0af4af4b68b:7ba1f480e9a83594063896a1bf772d22
@@ -13,19 +13,19 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=24
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
+#KODIPROP:inputstream.adaptive.license_key=1cbe293fdc385dac8c0d502b04f338e4:bafa117360c041a72412db27a6a6e0e5
 #EXTINF:-1 tvg-id=ts8 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tata Sky",STAR Plus HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=8
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=244&key
+#KODIPROP:inputstream.adaptive.license_key=bbbc36a45c7a5ec4878e04c437853b09:54e6d61c07ea31f6876828ab3fe595c2
 #EXTINF:-1 tvg-id=ts244 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Tata Sky",Star Bharat HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=244
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=469&key
+#KODIPROP:inputstream.adaptive.license_key=7ede0d7275045396bd3bb6540701cbf5:ebfb7ecbed5575919df4b60ad6207bdb
 #EXTINF:-1 tvg-id=ts469 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Tata Sky",Star Pravah HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=469
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
