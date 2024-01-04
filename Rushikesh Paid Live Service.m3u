@@ -28,24 +28,24 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifes
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
+#KODIPROP:inputstream.adaptive.license_key=b11dd25b629159868b77d5cb4cdd8129:fdd4f8da98855182e86199fdfc041ae6
 #EXTINF:-1 tvg-id=ts463 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Tata Sky",Star Sports Select 2 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=463
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
+#KODIPROP:inputstream.adaptive.license_key=a7641523ac8758e3b1e0df228719e145:b98fba66a6eb9a2cbe9b850ce339bc32
 #EXTINF:-1 tvg-id=ts246 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Tata Sky",Star Sports Select 1 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=246
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
+#KODIPROP:inputstream.adaptive.license_key=bc5ea952698553daaba85787001d6093:b248519efbde52fe5f8ef9c56356c9a3
 #EXTINF:-1 tvg-id=ts235 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Tata Sky",Star Sports 2 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=235
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
+#KODIPROP:inputstream.adaptive.license_key=06341bf3dd635e6ca5c71188d0210373:74f20cd516dd395513c4c75285d4265b
 #EXTINF:-1 tvg-id=ts78 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Sky",Star Sports 1 HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=78
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=80&key
