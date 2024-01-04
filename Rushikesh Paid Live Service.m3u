@@ -436,4 +436,12 @@ http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/237343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INDIAN | KIDS Cartoon",24/7 Tom & Jerry
 http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/329247
 
+#EXTINF:-1 tvg-id="" tvg-name="Ishq (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xVYSuVXIJS1iyEaRm8wtjotZB.jpg" group-title="BOLLYWOOD | OLD IS GOLD",Ishq (1997)
+http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/209728.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Rowdy Rathore (2012)  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytdp64MDSpONpm932nQcMTD95IF.jpg" group-title="BOLLYWOOD 2011-2015",Rowdy Rathore (2012)  
+http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/210761.mkv
+
+
 
