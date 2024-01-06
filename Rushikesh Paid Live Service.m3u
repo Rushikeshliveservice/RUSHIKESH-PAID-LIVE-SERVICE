@@ -239,6 +239,9 @@ https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Kids & Information",Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/a363a4f2-d346-45f7-91b3-e9067c53d4ea.png" group-title="TCL HD",TCL HD
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids & Information",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
