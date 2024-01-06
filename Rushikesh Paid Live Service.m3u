@@ -319,6 +319,40 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback
 #EXTINF:0 tvg-id="nickelod" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="VOOT",Nick HD+
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/Nick_HD_Plus_voot_MOB-audio_98835_eng=98800-video=1173600.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy Central HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall_250.png" group-title="VOOT",Clubbing TV
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT",Rishtey
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="VOOT",MTV Beats SD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="VOOT",Sonic Nickelodeon
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT",Sports18 1 HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="VOOT",Sports18 Khel
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/whatsapp4-1692602672516.jpeg" group-title="VOOT",News18 India
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/16x9-1692004949934.jpg" group-title="VOOT",News 18 Lokmat
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/16x9-1692004749473.jpg" group-title="VOOT",News 18 Gujarati
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/19-1680693079075.jpg" group-title="VOOT",CNBC TV18 PRIME HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/CNBC_Tv18_Prime_HD_voot_MOB/Fallback/index.m3u8
+
+
 #SONY SERVER 2
 
 
