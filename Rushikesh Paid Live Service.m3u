@@ -240,23 +240,22 @@ https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/a363a4f2-d346-45f7-91b3-e9067c53d4ea.png" group-title="TLC HD",TLC HD
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_11_0.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/TLC_HD.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/55d22b57-7a60-41ed-b149-d109849aa379.png" group-title="ID HD",ID HD
-https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/Investigation_Discovery_HD.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/b47e7ecc-6b07-4e17-976a-b5d7d14932d8.png" group-title="DMAX",DMAX
-https://food-dlvr-ott.akamaized.net/primary/2/07543219680b429fa16f1f5796eda058/index_21.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/DMAX.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/d7e67400-9a56-4943-9056-94d4686566b1.png" group-title="Trvl Channel",Trvl Channel
-https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/TRVL_Channel.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Food Network",Food Network
-https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/Food_Network.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png" group-title="HG TV",HG TV
-https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+https://techy-kuldeep-discovery.vercel.app/api/HGTV.m3u8
 
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids & Information",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
