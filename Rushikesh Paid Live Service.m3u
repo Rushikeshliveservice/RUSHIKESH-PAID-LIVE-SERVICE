@@ -224,6 +224,16 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallb
 #EXTINF:0 tvg-id="nick-jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids & Information",Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:0 tvg-id="nick-jr" tvg-logo="" group-title="Jio Cinema",Big Boss Hindi
+https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/uhd_akamai_ctv_avc_24x7_bbhindi_day01/master.m3u8
+
+#EXTINF:0 tvg-id="nick-jr" tvg-logo="" group-title="Jio Cinema",Big Boss Garden
+https://prod-ent-live-gm.jiocinema.com/hls/live/2105484/uhd_akamai_ctv_avc_cam01_bbhindi_day01/master.m3u8
+
+#EXTINF:0 tvg-id="nick-jr" tvg-logo="" group-title="Jio Cinema",Big Boss Bathroom
+https://prod-ent-live-gm.jiocinema.com/hls/live/2105437/uhd_akamai_ctv_avc_cam02_bbhindi_day01/master.m3u8
+
+
 
 #DISCOVERY SERVER
 
