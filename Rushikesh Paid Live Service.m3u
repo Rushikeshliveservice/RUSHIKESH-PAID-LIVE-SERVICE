@@ -442,32 +442,19 @@ http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8
 
 #EXTRA SECTION
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES FHD
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246653
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246656
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD ROMANCE
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246668
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD 2 HD
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246674
-
-#EXTINF:-1 tvg-id="" tvg-name="POGO HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="KIDS",POGO HD
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246764
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-700x394.png" group-title="KIDS",DISNEY CHANNEL
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
-
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="KIDS",HUNGAMA TV
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246766
-
-#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (2)
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/123706
-
-#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (1)
-http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/255296
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Rushikesh Live TV",IN | Star Gold HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66178
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Rushikesh Live TV",IN | Star Gold Select HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66176
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Rushikesh Live TV",IN | & Pictures HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66181
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Rushikesh Live TV",IN | ZEE CINEMA HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/206308
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Rushikesh Live TV",IN | Star Movies Select HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66315
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Rushikesh Live TV",Star Sport 1 HINDI HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/109986
 
 #EXTINF:-1 tvg-id="" tvg-name="CID 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CID 24x7
 http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/340808
@@ -518,6 +505,8 @@ http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/261932.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Fakt Mahilao Maate(2022)" tvg-logo="http://tv.zaintv.net:80/images/3Gy6QHppK5IezbaIaioTlz4OKFA_big.jpg" group-title="IN Gujarati",Fakt Mahilao Maate(2022)
 http://vodlb1.zaintv.net:80/meDia/MoVies/GujaratiMov/Fakt.Mahilao.Maate.1080p.SM.WEBRip.DD2.0.H.264.mkv
+
+
 
 
 
