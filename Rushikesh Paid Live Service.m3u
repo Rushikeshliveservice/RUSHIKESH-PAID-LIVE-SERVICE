@@ -503,8 +503,12 @@ http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/210789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tiger Zinda Hai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzNLFfCfuBoJz43l0SmMWWdu5t.jpg" group-title="BOLLYWOOD 2016-2018",Tiger Zinda Hai (2017)
 http://xtv.ooo:8080/movie/Keyurbipin123/Strawberrychocolate123/261932.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Fakt Mahilao Maate(2022)" tvg-logo="http://tv.zaintv.net:80/images/3Gy6QHppK5IezbaIaioTlz4OKFA_big.jpg" group-title="IN Gujarati",Fakt Mahilao Maate(2022)
-http://vodlb1.zaintv.net:80/meDia/MoVies/GujaratiMov/Fakt.Mahilao.Maate.1080p.SM.WEBRip.DD2.0.H.264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naadi Dosh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDR3HJIXSOgUFLxRIU4eDLEQmcz.jpg" group-title="IN | GUJRATI",Naadi Dosh (2022)
+http://xtv.ooo:8080/movie/234637547/745736432/266499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fakt Mahilao Maate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Gy6QHppK5IezbaIaioTlz4OKFA.jpg" group-title="IN | GUJRATI",Fakt Mahilao Maate (2022)
+http://xtv.ooo:8080/movie/234637547/745736432/284740.mp4
+
+
 
 
 
