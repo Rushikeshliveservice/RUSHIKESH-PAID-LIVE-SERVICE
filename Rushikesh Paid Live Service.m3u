@@ -216,7 +216,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Voot", Colors Cineplex
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_SD_voot_MOB/output/index.mpd
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplex/JCHLS/index.m3u8
 
 #EXTINF:0 tvg-id="nick-jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids & Information",Nick Junior
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
@@ -317,7 +317,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy Central HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall_250.png" group-title="VOOT",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
@@ -335,19 +335,25 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="VOOT",Sports18 Khel
-https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_SD_voot_MOB/output/index.mpd
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="VOOT",Jio Cinema cricket 24 * 7
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="VOOT",Jio Cinema Cricket
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/whatsapp4-1692602672516.jpeg" group-title="VOOT",News18 India
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/16x9-1692004949934.jpg" group-title="VOOT",News 18 Lokmat
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/16x9-1692004749473.jpg" group-title="VOOT",News 18 Gujarati
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://v3img.voot.com/v3Storage/assets/19-1680693079075.jpg" group-title="VOOT",CNBC TV18 PRIME HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/CNBC_Tv18_Prime_HD_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/index.m3u8
 
 
 #SONY SERVER 2
