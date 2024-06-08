@@ -71,6 +71,10 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96252
 #EXTINF:0 tvg-id="ZeeAction.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies",Zee Action
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96169
 
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV [FHD]
+http://xtv.ooo:8080/89998887/66600076/66163
+
+
 #EXTINF:0 tvg-id="ZeeTV.uk"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"  group-title="Entertainment",Zee tv HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96170
 
