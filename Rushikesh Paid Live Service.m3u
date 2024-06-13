@@ -38,6 +38,8 @@ http://xtv.ooo:8080/89998887/66600076/66213
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Star server",Star Movies Select HD
 http://xtv.ooo:8080/89998887/66600076/66315
 
+#EXTINF:-1 tvg-id="" tvg-name="Salaar: Part 1 – Ceasefire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu9WbcetNFRGXXPWITr30ob7W6.jpg" group-title="BOLLYWOOD (2023-2024)",Salaar: Part 1 – Ceasefire (2023)
+http://xtv.ooo:8080/movie/89998887/66600076/373772.mkv
 
 
 #ZEE SERVER
