@@ -48,9 +48,7 @@ https://play.denver1769.in/set2/index.m3u8?id=sony-bbc-earth-hd
 #EXTINF:0 tvg-id="ext" group-title="Sony Liv",No name
 // Sony Playlist BY Denver1769
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Sony LIV",Telegram
-https://t.me/bdix_ftp_iptv
+
 #EXTINF:0 tvg-id="set" group-title="Sony LIV",SONY HD
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/
 #EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY KAL HINDI
