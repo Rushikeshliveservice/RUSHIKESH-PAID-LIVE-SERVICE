@@ -48,3 +48,40 @@ https://play.denver1769.in/set2/index.m3u8?id=sony-bbc-earth-hd
 #EXTINF:0 tvg-id="ext" group-title="Sony Liv",No name
 // Sony Playlist BY Denver1769
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",Telegram
+https://t.me/bdix_ftp_iptv
+#EXTINF:0 tvg-id="set" group-title="Sony LIV",SONY HD
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY KAL HINDI
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Sony LIV",SONY PAL
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Sony LIV",SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Sony LIV",SONY MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Sony LIV",SONY MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY AATH
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY YAY
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Sony LIV",SONY PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="ext" group-title="Sony LIV",SONY BBC EARTH
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sony LIV",SONY TEN 1
+https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sony LIV",SONY TEN 2
+https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony LIV",SONY TEN 3 HD
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="Sony LIV",SONY SIX HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
+
+
