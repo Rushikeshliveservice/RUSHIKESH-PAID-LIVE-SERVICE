@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:0 tvg-id="set" group-title="Sony Liv" user-agent="Denver1769",SET HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony SAB HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-sab-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony Marathi
+https://play.denver1769.in/set2/index.m3u8?id=sony-marathi
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Sony Liv" user-agent="Denver1769",Sony PAL
+https://play.denver1769.in/set2/index.m3u8?id=sony-pal
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony AATH
+https://play.denver1769.in/set2/index.m3u8?id=sony-aath
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Sony Liv" user-agent="Denver1769",Sony MAX HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-max-hd
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Sony Liv" user-agent="Denver1769",Sony MAX
+https://play.denver1769.in/set2/index.m3u8?id=sony-max
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony MAX2
+https://play.denver1769.in/set2/index.m3u8?id=sony-max-2
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony WAH
+https://play.denver1769.in/set2/index.m3u8?id=sony-wah
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Sony Liv" user-agent="Denver1769",Sony PIX HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-pix-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony YAY
+https://play.denver1769.in/set2/index.m3u8?id=sony-yay
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 1 HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-1-hd
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 1
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-1
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 2 HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-2-hd
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 2
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-2
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 3 HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-3-hd
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 3
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-3
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 4 HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 4
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 5 HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-5-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony TEN 5
+https://play.denver1769.in/set2/index.m3u8?id=sony-ten-5
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv" user-agent="Denver1769",Sony BBC Earth HD
+https://play.denver1769.in/set2/index.m3u8?id=sony-bbc-earth-hd
+#EXTINF:0 tvg-id="ext" group-title="Sony Liv",No name
+// Sony Playlist BY Denver1769
+
